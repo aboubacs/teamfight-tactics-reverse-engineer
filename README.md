@@ -1,4 +1,4 @@
-##About
+## About
 
 This project is a complete reverse engineering of Teamfight Tactics as it was in 2021 (Sets 4.5 and 5).
 
